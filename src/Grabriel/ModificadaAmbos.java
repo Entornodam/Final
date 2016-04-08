@@ -18,5 +18,11 @@ public class ModificadaAmbos {
   
   public void inicia(){
       x=20;
+      
+  }
+  
+  public int getX()
+  { return x;
   }
   }
+  
