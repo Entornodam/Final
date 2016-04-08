@@ -21,6 +21,6 @@ public class ModificadaPorAmbos {
  {  this.x=x;
  }
  }
-}
+
     
 
