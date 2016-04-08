@@ -11,5 +11,13 @@ package Grabriel;
  * @author Vespertino
  */
 public class ModificadaAmbos {
-    
-}
+    private int x;
+  public ModificadaAmbos(){
+      x=10;
+  }
+  
+  public void inicia(){
+      x=20;
+  }
+  }
+
