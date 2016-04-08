@@ -16,6 +16,11 @@ public class ModificadaPorAmbos {
  public ModificadaPorAmbos(){
   x=10;  
 }
+ 
+ public void setX(int x)
+ {  this.x=x;
+ }
+ }
 }
     
 
