@@ -12,4 +12,16 @@ package Grabriel;
  */
 public class ModificadaAmbos {
     
-}
+    private int x;
+    
+    public ModificadaAmbos()
+    {   x=10;
+    }
+    
+    public int getX()
+    {   return x;
+    }
+    
+    }
+    
+
